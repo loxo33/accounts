@@ -1,4 +1,4 @@
-irc_auth
+Accounts
 ========
 
-Puppet Module for supporting IRC's PAM authentication.
+Puppet Module for supporting PAM authentication.
